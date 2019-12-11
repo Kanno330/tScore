@@ -179,7 +179,7 @@ def main():
 	# 1回戦
 	matchId = '1'
 	key = 'opponent_name'
-	value = 'morisoba'
+	value = 'player01'
 	insertResult(battleId, matchId, key, value)
 	key = 'opponent_deck'
 	value = '青黒ゴモリー'
@@ -196,7 +196,7 @@ def main():
 	# 2回戦
 	matchId = '2'
 	key = 'opponent_name'
-	value = 'さんじょ'
+	value = 'player02'
 	insertResult(battleId, matchId, key, value)
 	key = 'opponent_deck'
 	value = '青青アテナ'
@@ -213,7 +213,7 @@ def main():
 	# 3回戦
 	matchId = '3'
 	key = 'opponent_name'
-	value = 'ぼーかる'
+	value = 'player03'
 	insertResult(battleId, matchId, key, value)
 	key = 'opponent_deck'
 	value = '青黒ゴモリー'
